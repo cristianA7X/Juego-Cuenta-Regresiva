@@ -8,6 +8,14 @@ Suenan las sirenas: tenés 60 segundos para recorrer la casa, juntar provisiones
 a tu familia al refugio. Después hay que sobrevivir 15 días racionando agua y comida y
 tomando decisiones ante lo que pasa cada día.
 
+## Integrantes
+
+- Arispe Gabriel
+- Lopez Cristian
+- Loza Valentina
+- Lucero German
+- Zarate Elias
+
 ## Cómo ejecutarlo
 
 1. Abrir NetBeans → **File → Open Project** → elegir la carpeta `60-seconds`.
